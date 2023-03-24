@@ -1,5 +1,3 @@
-const jwt = require('jsonwebtoken')
-
 function AuthMiddleware(req, res, next) {
     const { authorization } = req.headers;
 
