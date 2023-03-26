@@ -45,3 +45,7 @@ docker run -p 3000:3000 guisnunex/analisehttp
 ``
 
 O servidor estará rodando na porta 3000.
+
+### Insomnia collection:
+
+https://drive.google.com/file/d/1I4lNVQL0CY3p3Pr2NfDM6ZW3Uto6VRa7/view?usp=sharing
